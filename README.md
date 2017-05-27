@@ -29,4 +29,4 @@ Optional arguments: The following arguments are optionally invoked, as required 
 
 Command-Line Execution Example:
 
-./check_nikto.py -H https://exchange.nagios.org -p 443 -r nagios
+./check_nikto.py -H https://github.com -p 443 -r nagios
